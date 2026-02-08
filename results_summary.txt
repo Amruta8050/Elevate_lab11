@@ -1,0 +1,9 @@
+
+SVM Breast Cancer Classification Summary
+
+Linear SVM Accuracy : 0.9737
+Best RBF Parameters : {'svm__C': 10, 'svm__gamma': 0.01}
+RBF SVM AUC Score   : 0.9977
+
+Model Pipeline:
+StandardScaler + SVM (RBF Kernel)
