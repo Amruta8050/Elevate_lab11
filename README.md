@@ -66,11 +66,13 @@ All evaluation outputs are automatically saved, eliminating the need for screens
 
 ---
 
-## 💾 Saved Outputs
-After execution, the following files are generated:
 
 outputs/
 ├── roc_curve.png
 ├── classification_report.txt
 ├── results_summary.txt
 └── svm_breast_cancer_pipeline.pkl
+
+#Outputs
+<img width="774" height="574" alt="Image" src="https://github.com/user-attachments/assets/a0201850-8fdf-491c-bde4-f79d02df26e7" />
+<img width="618" height="565" alt="Image" src="https://github.com/user-attachments/assets/e3e69a2f-e090-4860-9e02-fecbc7ca100f" />
